@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development, frontend, user acquisition and data analytics.
 - 🌱 I’m currently learning Android development with Kotlin.
 - 💞️ I’m looking to collaborate on indie mobile game development
-- 📫 Fill free to text me via Telegram @stepan_kolodyazhny if I can help you!
+- 📫 Fill free to text me via Telegram @stepan_kolodyazhny if I can help you! (native Russian speaker and fluent English)
 
 <!---
 stepan-kolodyazhny/stepan-kolodyazhny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
