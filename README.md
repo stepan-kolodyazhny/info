@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stepan Kolodyazhny. Android developer at the beginning from St.Petersburg, Russia.
 - 👀 I’m interested in app development, frontend, user acquisition and data analytics.
 - 🌱 I’m currently learning Android development with Kotlin.
-- 💞️ I’m looking to collaborate on indie mobile game development
 - 📫 Fill free to text me via Telegram @stepan_kolodyazhny if I can help you! (native Russian speaker and fluent English)
 
 <!---
